@@ -25,8 +25,8 @@ Obstaculos(Capsulas)- Desvian canicas a diferentes rutas
 
 ![Capsula](Asset4.png) 
 
-![Capsulas organizadas como obstaculos](Asset6.png) 
+![Capsulas organizadas como obstaculos](Asset5.png) 
 
-![Camino principal con obstaculos](Asset5.png)
+![Camino principal con obstaculos](Asset6.png)
 
 
