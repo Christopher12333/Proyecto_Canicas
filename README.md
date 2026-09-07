@@ -42,3 +42,16 @@ Ruta alterna
 
 **Rutas alternas organizadas**
 ![Rutas alternas](Asset8.png)
+Arco Romano- Compuesto de cubos, donde las canicas deberian de pasar como desafio, sin tumbarlo
+
+**Base del arco romano**
+![Base del arco romano](Asset9.png) 
+
+**Base con soporte**
+![Base con soporte](Asset10.png) 
+
+**Arco romano completado**
+![Arco Romano completo](Asset11.png)
+
+**Juego de canica completo**
+![Juego completo](Asset12.png)
