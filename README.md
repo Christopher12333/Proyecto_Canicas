@@ -7,9 +7,9 @@ Participantes
 
     Pablo Alexander Muñoz López
 
-Juego de canicas
+**Juego de canicas**
 
-1. Creacion de Assets
+## 1. Creacion de Assets
 
 Canica(Sphere)- La canica será representada por una esfera sin modificar.
 
