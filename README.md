@@ -62,8 +62,8 @@ Arco Romano- Compuesto de cubos, se divide en una base y los cubos que componen 
 **Juego de canica completo**
 ![Juego completo](Asset12.png)
 
-    2-Experiencia obtenida
+## 2 - Experiencia obtenida
 
-    Christopher- Esta ha sido la primera vez que he utilizado Unity, y encontré interesante la manipulación de objetos básicos para crear estructuras. Como ejemplo, los cubos, que se estiraron para crear paredes para parar o guiar las canicas. También encontré novedosa la manipulación de parámetros como la gravedad para forzar comportamientos deseados, como las bases en el Arco Romano.
+**Christopher:** Esta ha sido la primera vez que he utilizado Unity, y encontré interesante la manipulación de objetos básicos para crear estructuras. Como ejemplo, los cubos, que se estiraron para crear paredes para parar o guiar las canicas. También encontré novedosa la manipulación de parámetros como la gravedad para forzar comportamientos deseados, como las bases en el Arco Romano.
 
-    Pablo- En este proyecto aprendí como las físicas de los objetos interactúan entre sí. Los prefabs facilitaron muchísimo la creación de las pistas alternas al no tener que crear cada plataforma una por una. El arco del final estuvo un poco complicado y se tuvo que jugar con los tamaños de los cubos para poder lograr que se mantuviera sin caerse.
+**Pablo:** En este proyecto aprendí como las físicas de los objetos interactúan entre sí. Los prefabs facilitaron muchísimo la creación de las pistas alternas al no tener que crear cada plataforma una por una. El arco del final estuvo un poco complicado y se tuvo que jugar con los tamaños de los cubos para poder lograr que se mantuviera sin caerse.
